@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/kaushal_kun" target="blank"><img src="https://img.shields.io/twitter/follow/kaushal_kun?logo=twitter&style=for-the-badge" alt="kaushal_kun" /></a> </p>
 
-- 🔭 I’m currently working on **Recursion Base Problem Solving In C and Python**
+- 🔭 I’m currently working on **Linked List and DSA Based Problem Solving In C++ and Python**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Python, Java Script**
+- 👯 I’m looking to collaborate on **Python, Java Script, C, C++**
 
-- 🤝 I’m looking for help with **C/C++**
+- 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://taupe-faun-f1f351.netlify.app/](https://taupe-faun-f1f351.netlify.app/)
 
-- 💬 Ask me about **Python, Java Script, CSS, HTML**
+- 💬 Ask me about **Python, Java Script, CSS, HTML, C, C++**
 
 - 📫 How to reach me **anshkaushal20072005@gmail.com**
 
