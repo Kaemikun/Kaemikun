@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Python, Java Script, C, C++**
+- 👯 I’m looking to collaborate on **Python, Java Script, C, C++, Java**
 
 - 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://taupe-faun-f1f351.netlify.app/](https://taupe-faun-f1f351.netlify.app/)
 
-- 💬 Ask me about **Python, Java Script, CSS, HTML, C, C++**
+- 💬 Ask me about **Python, Java Script, CSS, HTML, C, C++, Java**
 
 - 📫 How to reach me **anshkaushal20072005@gmail.com**
 
