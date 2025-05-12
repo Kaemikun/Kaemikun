@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushal_kun" target="blank"><img src="https://img.shields.io/twitter/follow/kaushal_kun?logo=twitter&style=for-the-badge" alt="kaushal_kun" /></a> </p>
 
-- 🔭 I’m currently working on **Linked List and DSA Based Problem Solving In C++ and Java**
+- 🔭 I’m currently working on **BackTracking and DSA Based Problem Solving In C++ and Java**
 
 - 🌱 I’m currently learning **DSA**
 
